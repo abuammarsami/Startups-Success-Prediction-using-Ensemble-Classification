@@ -1,0 +1,20 @@
+Name: Sadia Afrin Tamanna
+Id: 1812030042
+email: sadia.tamanna@northsouth.edu
+phone: 01622709400
+
+
+Name: MD. ABU AMMAR
+Id: 1821944642
+email: abu.ammart@northsouth.edu
+phone: 01731786464
+
+Name: Mostak Ahamed
+Id: 1821737042
+email: ahamed.mostak@northsouth.edu
+phone: 01303051040
+
+Name: Tamalika Bakshi 
+Id: 1812469042
+email: tamalika.bakshi@northsouth.edu
+phone: 01521220737
